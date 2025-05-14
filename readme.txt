@@ -1,4 +1,4 @@
------------------------
+----------------------- here is a static web site deployed for the purpose of my fisrt static website deployment using CI CD pipeline... Continue deployment with aws codepipeline as code orchestrators
 # README
 -----------------------
 CarVilla is a one page bootstrap 3 based Car Dealer Automotive website template.
